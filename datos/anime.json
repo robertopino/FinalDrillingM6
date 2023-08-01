@@ -1,0 +1,50 @@
+{
+  "1": {
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  "2": {
+    "nombre": "Dragon Ball",
+    "genero": "Shonen",
+    "año": "1986",
+    "autor": "Akira Toriyama"
+  },
+  "3": {
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  "5": {
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  "6": {
+    "nombre": "Fometsu No Anata E",
+    "genero": "Seinen",
+    "año": "2016",
+    "autor": "Yoshitoki Oima"
+  },
+  "7": {
+    "nombre": "Sonny Boy",
+    "genero": "Sci-Fi",
+    "año": "2021",
+    "autor": "Shingo Natsume"
+  },
+  "8": {
+    "nombre": "Pokémon",
+    "género": "Shonen",
+    "año": "1997",
+    "autor": "GameFreaks"
+  },
+  "9": {
+    "nombre": "Digimon",
+    "género": "Shonen",
+    "año": "2002",
+    "autor": "JapanCo."
+  }
+}
